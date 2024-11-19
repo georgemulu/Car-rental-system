@@ -1,0 +1,11 @@
+payment_id,amount,payment_date,status,brand,model
+1,20000.05,2024-06-09,paid,Toyota,"Toyota civi"
+2,30000.00,2024-08-15,paid,Honda,"Honda Civic"
+3,25000.00,2024-07-16,paid,Ford,Lincoln
+4,15000.00,2024-12-11,paid,"Land Rover",Defender
+5,40000.00,2024-11-12,paid,Suzuki,"Maruti Suzuki"
+6,35000.00,2024-08-10,paid,BMW,"Rolls Royce"
+7,18000.00,2024-10-11,paid,"Tata Motors",Peugeot
+8,50000.00,2024-05-20,paid,Ford,Mustang
+9,19000.00,2024-08-19,paid,Geely,Volvo
+10,12000.00,2024-12-12,paid,Kia,Carnival
